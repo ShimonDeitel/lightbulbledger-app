@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "LightbulbLedger Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "0.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub_1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Record bulb wattage and type for every fixture so replacements are always the right fit.",
+              "displayName": "LightbulbLedger Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.bulbledger.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "LightbulbLedger Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
